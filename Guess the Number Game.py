@@ -16,4 +16,4 @@ if __name__ == "__main__":
         print(f"twoja liczna jest większa {name}")
         your_number = int(input("Podaj inna liczbe: "))
     else:
-       print(f"Twoja liczba jest prawidłowa {name}")
+       print(f"Twoja liczba jest prawidłowa {name} wygrałeś!")
